@@ -1,8 +1,8 @@
 ### Hi 👋,  I'm Ifan
 
-I'm CaiCai, a software engineer, good at embedded development, linux driver development, web backend development and so on.  😄 
+I'm CaiCai, currently working on Shopee in Singapore, developed embedded, linux driver, backend etc.  😄 
 
-I like to explore a variety of interesting technologies,  please discuss interesting everything with me !  🤔
+I'd like to explore a variety of interesting technologies and discuss any brilliant ideas with everyone ! ⚡
 
 See my website [www.caiyifan.cn](https://www.caiyifan.cn/) to get more information. 💬 
 
@@ -12,7 +12,7 @@ See my website [www.caiyifan.cn](https://www.caiyifan.cn/) to get more informati
             <img src="https://github-readme-stats.vercel.app/api?username=IfanTsai&hide=prs&count_private=true&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true" border="0">
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IfanTsai&langs_count=9&hide=Objective-C,Vim%20script&theme=radical&hide_border=true&count_private=true&exclude_repo=x210_kernel,LinuxDriver,s5pv210-driver-no-os&layout=compact&custom_title=Most%20Used%20Languages (Top 8)" border="0">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IfanTsai&langs_count=8&hide=Objective-C,Vim%20script,QMake,Makefile,HTML,CSS&theme=radical&hide_border=true&count_private=true&exclude_repo=x210_kernel,LinuxDriver,s5pv210-driver-no-os&layout=compact&custom_title=Most%20Used%20Languages (Top 8)" border="0">
         </td>
     </tr>
 </table>
