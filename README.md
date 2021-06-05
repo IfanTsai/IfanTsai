@@ -9,10 +9,10 @@ See my website [www.caiyifan.cn](https://www.caiyifan.cn/) to get more informati
 <table cellspacing="0px" cellpadding="0px" border="0px">
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=IfanTsai&hide=prs&count_private=true&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true" border="0">
+            <img src="https://github-readme-stats.vercel.app/api?username=IfanTsai&count_private=true&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true" border="0">
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IfanTsai&langs_count=8&hide=Objective-C,Vim%20script,QMake,Makefile,HTML,CSS&theme=radical&hide_border=true&count_private=true&exclude_repo=x210_kernel,LinuxDriver,s5pv210-driver-no-os&layout=compact&custom_title=Most%20Used%20Languages (Top 8)" border="0">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IfanTsai&langs_count=10&hide=Objective-C,Vim%20script,QMake&theme=cobalt&hide_border=true&count_private=true&exclude_repo=x210_kernel,LinuxDriver,s5pv210-driver-no-os&layout=compact&custom_title=Most%20Used%20Languages%20(Top%2010)" border="0">
         </td>
     </tr>
 </table>
