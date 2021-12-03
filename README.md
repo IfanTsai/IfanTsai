@@ -1,28 +1,23 @@
 <img align="right" alt="GIF" src="https://img.caiyifan.cn/pusheencode.gif" width="30%" height="auto"/>
 
-### Hi 👋, I'm Ifan
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I'm Ifan
 
-- 🔭 I'm Ifan, you can call me as **Cai Cai**, currently working on Shopee in Singapore, developed embedded, linux driver, backend etc. 😄 
+- 🔭 I'm Ifan, you can call me as **Cai Cai**, currently working on Shopee in Singapore, developed embedded, Linux driver, backend etc. 😄 
 
 - 🌱 I'd like to explore a variety of interesting technologies and discuss any brilliant ideas with everyone ! ⚡
 
 - 📫 See my website [www.caiyifan.cn](https://www.caiyifan.cn/) to get more information. 💬
 
-<!-- <table cellspacing="0px" cellpadding="0px" border="0px">
+<table cellspacing="0px" cellpadding="0px" border="0px">
     <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=IfanTsai&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=buefy" border="0">
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IfanTsai&langs_count=10&hide=Objective-C,Vim%20script,QMake&theme=buefy&hide_border=true&count_private=true&exclude_repo=x210_kernel,LinuxDriver,s5pv210-driver-no-os&layout=compact&custom_title=Most%20Used%20Languages%20(Top%2010)" border="0">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IfanTsai&langs_count=8&hide=HTML,CSS,Makefile,Dockerfile,Objective-C,Vim%20script,QMake&theme=buefy&hide_border=true&count_private=true&exclude_repo=x210_kernel,LinuxDriver,s5pv210-driver-no-os&layout=compact&custom_title=Most%20Used%20Languages%20(Top%208)" border="0">
         </td>
     </tr>
 </table>
- -->
-
- ![caicai's github stats](https://github-readme-stats.vercel.app/api?username=IfanTsai&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&theme=buefy)
- ![caicai's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IfanTsai&langs_count=10&hide=Objective-C,Vim%20script,QMake&theme=buefy&hide_border=true&count_private=true&exclude_repo=x210_kernel,LinuxDriver,s5pv210-driver-no-os&layout=compact&custom_title=Most%20Used%20Languages%20(Top%2010))
-
 Follow me and star my repositories ! ❤️ 
 
 <!--
@@ -38,4 +33,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
