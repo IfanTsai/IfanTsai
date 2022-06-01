@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://img.caiyifan.cn/pusheencode.gif" width="30%" height="auto"/>
 
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">, I'm Ifan
+### Hi 👋, I'm Ifan
 
 - 🔭 I'm Ifan, you can call me as **Cai Cai**, currently working on Shopee in Singapore, developed embedded, Linux driver, backend etc. 😄 
 
